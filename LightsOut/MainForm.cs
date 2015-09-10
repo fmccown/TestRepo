@@ -20,11 +20,13 @@ namespace LightsOut
 
         private AboutForm aboutBox;             // About dialog box
 
+        private int x;
+
         public MainForm()
         {
             InitializeComponent();
 
-            rand = new Random();    // Initializes random number generator
+            rand = new Random();    
 
             grid = new bool[numCells, numCells];
 
