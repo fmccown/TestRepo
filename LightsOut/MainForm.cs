@@ -24,6 +24,8 @@ namespace LightsOut
         
         private int teamVariable;
 
+        private int newVariable;
+
         public MainForm()
         {
             InitializeComponent();
