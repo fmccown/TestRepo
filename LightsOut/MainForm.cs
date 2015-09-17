@@ -22,6 +22,8 @@ namespace LightsOut
 
         private int variableFromGithub;
 
+        private string variableFromDesktop;
+
         public MainForm()
         {
             InitializeComponent();
