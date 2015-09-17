@@ -20,7 +20,7 @@ namespace LightsOut
 
         private AboutForm aboutBox;             // About dialog box
 
-        private int x;
+        private int variableFromGithub;
 
         public MainForm()
         {
