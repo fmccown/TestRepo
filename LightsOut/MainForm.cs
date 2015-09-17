@@ -24,7 +24,7 @@ namespace LightsOut
 
         private string variableFromDesktop;
         
-        int foo = 1;
+        int foo = 2;
 
         int z;
 
