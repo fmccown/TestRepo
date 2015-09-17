@@ -23,6 +23,8 @@ namespace LightsOut
         private int variableFromGithub;
 
         private string variableFromDesktop;
+        
+        int foo;
 
         public MainForm()
         {
