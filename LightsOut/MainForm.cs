@@ -26,6 +26,8 @@ namespace LightsOut
         
         int foo;
 
+        int z;
+
         public MainForm()
         {
             InitializeComponent();
